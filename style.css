@@ -1,4 +1,21 @@
-body {background-color:tan;}
-h1{color:green;}
+body
+{
+    background-color:#000;
+    font-family:arial;
+    color:#FFF;
+}
+h1
+{
+    color:grey;
+    font-family: verdana;
+}
 
-
+.maindiv
+{
+    background-color: #FFF;
+    color: #000;
+    width: 300px;
+    padding: 20px;
+    border-radius: 25px;
+    margin:auto; /*Used in place of align:center as that does not exist */
+}
